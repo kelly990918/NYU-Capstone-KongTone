@@ -2,8 +2,6 @@
 
 ![KongTone banner](https://github.com/kelly990918/NYUCapstone/blob/main/KongTone-banner.png)
 
----
-
 # KONGTONE
 
 <div align="center"><i>NYU MS in Publishing Capstone Project</i></div><br>
