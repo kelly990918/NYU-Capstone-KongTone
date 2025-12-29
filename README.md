@@ -14,7 +14,7 @@ In the final semester, I took the Capstone course as an opportunity to share my 
 
 This is not a perfect proposal, but at least the best I can accomplish at this stage. There's still a long way to go...!
 
-<div style="display: flexbox; width: 100%">
+<div style="display: flexbox;">
  <img style="width: 50%" alt="English landing page" src="https://github.com/kelly990918/NYUCapstone-KongTone/blob/main/Landing%20Page%20(EN).png">
  <img style="width: 50%" alt="Desktop culture page" src="https://github.com/kelly990918/NYUCapstone-KongTone/blob/main/Culture%20(EN).png">
 </div>
