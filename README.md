@@ -39,7 +39,7 @@ This is not a perfect proposal, but at least the best I can accomplish at this s
 
 作為學生作品，我深知尚有不少進步空間，還望各位讀者多多包涵。
 
-### 網頁預覽！
+### 網站預覽！
 <img style="height: 500px; width: auto;" alt="English desktop" src="https://github.com/kelly990918/NYUCapstone-KongTone/blob/main/desktop-tc.png">
 
 ### 專題作品鏈接
