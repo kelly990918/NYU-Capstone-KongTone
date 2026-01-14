@@ -22,7 +22,7 @@ This is not a perfect proposal, but at least the best I can accomplish at this s
 
 ### Skills & tech involved
 - Figma
-- UI/ prototype design
+- UI & prototype design
 - Linguistics
 - Entrepreneurship
 - Market research
@@ -63,7 +63,7 @@ This is not a perfect proposal, but at least the best I can accomplish at this s
 
 ### 專業技能/ 軟體利用
 - Figma
-- UI/ 原型設計
+- UI、原型設計
 - 語言學
 - 創業家精神
 - 市場調查
