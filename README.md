@@ -69,7 +69,7 @@ This is not a perfect proposal, but at least the best I can accomplish at this s
 - 市場調查
 - 行銷
 - 會計
-- 財務預估
+- 財務預測
 
 ### 網站預覽！
 <img style="height: 300px; width: auto;" alt="English desktop" src="https://github.com/kelly990918/NYUCapstone-KongTone/blob/main/desktop-tc.png">
