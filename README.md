@@ -20,10 +20,20 @@ This is not a perfect proposal, but at least the best I can accomplish at this s
 - Target audience: Cantonese as Second Language (CSL) learners, second-/ third-generation immigrants, diaspora communities
 - Revenue streams: in-app currency sales, display ads, native ads
 
+### Skills & tech involved
+- Figma
+- UI/ prototype design
+- Linguistics
+- Entrepreneurship
+- Market research
+- Marketing
+- Accounting
+- Financial projection
+
 ### See page preview!
 <img style="height: 300px; width: auto;" alt="English desktop" src="https://github.com/kelly990918/NYU-Capstone-KongTone/blob/main/desktop-en.png">
 
-### Capstone Project Links
+### Capstone project links
 - 📊 [Full Proposal](https://github.com/kelly990918/NYU-Capstone-KongTone/blob/main/Leung-KongTone_proposal.pdf)
 - 📈 [Pitch Deck](https://www.figma.com/slides/rBhGiL707hsq453N9gBkcP/Presentation-Deck?node-id=112-47&t=tt320JJY5i5GckmP-1)
 - 💻 [Desktop Prototype on Figma (English ver.)](https://www.figma.com/proto/ZfvLHqg9ESb3mFWhteauAH/KongTone-prototype?page-id=0%3A1&node-id=1-32&viewport=25%2C163%2C0.15&t=Vb92NQ03i4MtIA07-1&scaling=scale-down&content-scaling=fixed)
@@ -50,6 +60,16 @@ This is not a perfect proposal, but at least the best I can accomplish at this s
 - 內容形式：多媒體互動課程
 - 受眾：以廣東話作為外語者、第二/三代移民、離散群體
 - 營利模式：平台代幣銷售、數位廣告、原生廣告
+
+### 專業技能/ 軟體利用
+- Figma
+- UI/ 原型設計
+- 語言學
+- 創業家精神
+- 市場調查
+- 行銷
+- 會計
+- 財務預估
 
 ### 網站預覽！
 <img style="height: 300px; width: auto;" alt="English desktop" src="https://github.com/kelly990918/NYUCapstone-KongTone/blob/main/desktop-tc.png">
